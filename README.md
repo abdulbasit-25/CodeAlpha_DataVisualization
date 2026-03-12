@@ -70,15 +70,15 @@ CodeAlpha_EDA_Project/
 5. **Data Visualization:** Created plots to visualize distributions, relationships, and correlations.
 
 ### Visualizations
-- ![Age Distribution](images/Age Distribution OF Employees.png)
-- ![Salary Distribution](images/Salary Distribution.png)
-- ![Employees per Department](images/Employees per Department.png)
-- ![Gender Distribution](images/Gender Distribution.png)
-- ![Performance Rating Distribution](images/Performance Rating Distribution.png)
-- ![Experience vs Salary](images/Experience vs Salary.png)
-- ![Salary by Department](images/Salary by Department.png)
-- ![Salary vs Performance](images/Salary vs Performance.png)
-- ![Correlation Analysis](images/Correlation Analysis.png)
+- ![Age Distribution](Age Distribution OF Employees.png)
+- ![Salary Distribution](Salary Distribution.png)
+- ![Employees per Department](Employees per Department.png)
+- ![Gender Distribution](Gender Distributio.png)
+- ![Performance Rating Distribution](Performance Rating Distribution.png)
+- ![Experience vs Salary](Experience vs Salary.png)
+- ![Salary by Department](Salary by Department.png)
+- ![Salary vs Performance](Salary vs Performance.png)
+- ![Correlation Analysis](Correlation Analysis.png)
 
 ---
 
